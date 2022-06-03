@@ -5,8 +5,9 @@ This is a simple app to supplement weatherTop weather stations in Waterford Irel
 ## **Structure**
 
 The controllers folder contains the java classes used in controlling the app.
+
 *About.java:*
-renders the about.html file and displayes information about the app and contact details for the company
+renders the about.html file and displays information about the app and contact details for the company
 
 *Accounts.java:*
 Contains methods for user signup (renders signup.html line 16), login (renders login.html line 22), registration (line 28-34), authentication for registered users (checks the user email and password match the member id line 37-line 50), 
